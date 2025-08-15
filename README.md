@@ -178,8 +178,3 @@ Projeto sob licença MIT – consulte o arquivo `LICENSE` para mais detalhes.
 ---
 
 **SovyLang** – Programação em português, simples e eficiente.
-
-```
-
-Quer que eu já prepare essa versão mais avançada?
-```
