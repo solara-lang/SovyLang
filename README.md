@@ -1,6 +1,6 @@
-# SovyLang - Interpretador da Linguagem Solara
+# SovyLang – Linguagem de Programação Solara
 
-**SovyLang** é um interpretador completo para a linguagem de programação **Solara**, desenvolvida com sintaxe totalmente em português brasileiro. A linguagem foi projetada para ser intuitiva, legível e acessível, especialmente para iniciantes em programação.
+**SovyLang** é a implementação oficial da linguagem de programação **Solara**, desenvolvida em **GoLang** para oferecer alto desempenho e portabilidade. A linguagem **Solara** possui sintaxe totalmente em português brasileiro, projetada para ser intuitiva, legível e acessível, especialmente para iniciantes, mas sem abrir mão de recursos avançados.**
 
 ## Características Principais
 
