@@ -325,17 +325,6 @@ spec:
 
 ---
 
-## 📊 Performance e Benchmarks
-
-| Métrica | SovyLang | Python | JavaScript |
-|---------|----------|--------|------------|
-| **Tempo de Inicialização** | 50ms | 120ms | 80ms |
-| **Uso de Memória** | 12MB | 25MB | 45MB |
-| **Velocidade de Execução** | 8.5x | 1x | 3.2x |
-| **Tamanho do Executável** | 8MB | 30MB | 15MB |
-
----
-
 ## 🏗️ Estrutura do Projeto
 
 ```
