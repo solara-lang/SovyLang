@@ -104,13 +104,13 @@ go build -o sovy cmd/sovy/main.go
 ### 🖥️ Binários Pré-compilados
 ```bash
 # Windows
-curl -L https://github.com/seu-usuario/SovyLang/releases/latest/download/sovy-windows.exe -o sovy.exe
+curl -L https://github.com/solara-lang/SovyLang/releases/latest/download/sovy-windows.exe -o sovy.exe
 
 # Linux
-curl -L https://github.com/seu-usuario/SovyLang/releases/latest/download/sovy-linux -o sovy
+curl -L https://github.com/solara-lang/SovyLang/releases/latest/download/sovy-linux -o sovy
 
 # macOS
-curl -L https://github.com/seu-usuario/SovyLang/releases/latest/download/sovy-macos -o sovy
+curl -L https://github.com/solara-lang/SovyLang/releases/latest/download/sovy-macos -o sovy
 ```
 
 ---
